@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Michael&#39;s Blag</title>
+    <link>https://blog.u3w.xyz/blog/</link>
+    <description>Recent content in Posts on Michael&#39;s Blag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 17 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.u3w.xyz/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello, blog</title>
+      <link>https://blog.u3w.xyz/blog/hackery/firstpost/</link>
+      <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.u3w.xyz/blog/hackery/firstpost/</guid>
+      <description>I&amp;rsquo;ve had a Wordpress blog for about as long as I&amp;rsquo;ve had a domain.
+It was appropriate in 2012, sure, but I like to think that I&amp;rsquo;m smarter and wiser now, and if I have a Wordpress blog, then I&amp;rsquo;d be a hypocrite if I made fun of it.
+To allow myself some additional liberties, it&amp;rsquo;s finally (way past) time for WP to die!
+&amp;ldquo;But why&amp;rdquo;, I hear you cry, &amp;ldquo;do you need a blog at all?</description>
+    </item>
+    
+  </channel>
+</rss>
