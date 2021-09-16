@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact on Michael&#39;s Blag</title>
-    <link>blog.u3w.xyz/contact/</link>
+    <link>https://blog.u3w.xyz/contact/</link>
     <description>Recent content in Contact on Michael&#39;s Blag</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="blog.u3w.xyz/contact/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://blog.u3w.xyz/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>blog.u3w.xyz/about/</loc>
+    <loc>https://blog.u3w.xyz/about/</loc>
     <lastmod>2020-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>blog.u3w.xyz/categories/</loc>
+    <loc>https://blog.u3w.xyz/categories/</loc>
     <lastmod>2020-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>blog.u3w.xyz/tags/embedded/</loc>
+    <loc>https://blog.u3w.xyz/tags/embedded/</loc>
     <lastmod>2020-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>blog.u3w.xyz/tags/hacking/</loc>
+    <loc>https://blog.u3w.xyz/tags/hacking/</loc>
     <lastmod>2020-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>blog.u3w.xyz/blog/hackery/firstpost/</loc>
+    <loc>https://blog.u3w.xyz/blog/hackery/firstpost/</loc>
     <lastmod>2020-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>blog.u3w.xyz/</loc>
+    <loc>https://blog.u3w.xyz/</loc>
     <lastmod>2020-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>blog.u3w.xyz/categories/non-tech/</loc>
+    <loc>https://blog.u3w.xyz/categories/non-tech/</loc>
     <lastmod>2020-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>blog.u3w.xyz/blog/</loc>
+    <loc>https://blog.u3w.xyz/blog/</loc>
     <lastmod>2020-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>blog.u3w.xyz/tags/</loc>
+    <loc>https://blog.u3w.xyz/tags/</loc>
     <lastmod>2020-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>blog.u3w.xyz/contact/</loc>
+    <loc>https://blog.u3w.xyz/contact/</loc>
   </url><url>
-    <loc>blog.u3w.xyz/tags/index/</loc>
+    <loc>https://blog.u3w.xyz/tags/index/</loc>
   </url>
 </urlset>
